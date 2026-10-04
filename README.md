@@ -1,4 +1,4 @@
-![hello!](https://kurofurtex.github.io/assets/img/portrait.png)
+<img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/18e85472-aa7d-4746-a972-7ddbaf193e03" />
 ***
 So uhhh I'm just a silly lil furball :3c
 
